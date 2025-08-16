@@ -44,7 +44,7 @@ export default function Hero() {
                 <span className="block text-transparent bg-gradient-to-r from-accent-400 to-primary-400 bg-clip-text">
                   Histórias que
                 </span>
-                <span className="block">Tocam a Alma</span>
+                <span className="block">acalmam</span>
               </motion.h1>
 
               <motion.p

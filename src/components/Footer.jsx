@@ -64,7 +64,7 @@ export default function Footer() {
               </div>
               
               <p className="text-gray-300 leading-relaxed mb-6">
-                Escritor apaixonado por romances que tocam a alma e transformam corações. 
+                Escritor apaixonado por romances que acalmam a alma e transformam corações. 
                 Cada história é uma jornada única através do universo das emoções humanas.
               </p>
 
